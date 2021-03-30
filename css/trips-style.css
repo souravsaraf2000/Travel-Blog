@@ -1,0 +1,27 @@
+body{
+    margin:0;
+}
+.nav{
+    padding:15px;
+    background-color:#022D36;
+    text-align: center;
+    font-size: 16px;
+}
+a{
+    color:#fff;
+    padding:10px;
+    padding-right:20px;
+    font-size: 18px;
+    text-decoration: none;
+}
+.p-format{
+    line-height: 1.5;
+}
+.div-format{
+    padding:0px 80px 40px 80px;
+}
+footer{
+    background-color: #022D36;
+    color: #fff;
+    text-align: center;
+}
